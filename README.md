@@ -1,1 +1,1 @@
-# joomla-project
+# Joomla Project
